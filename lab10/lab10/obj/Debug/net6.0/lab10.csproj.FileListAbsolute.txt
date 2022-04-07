@@ -1,0 +1,15 @@
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\lab10.exe
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\lab10.deps.json
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\lab10.runtimeconfig.json
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\lab10.dll
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\ref\lab10.dll
+E:\C#\labs\lab10\lab10\bin\Debug\net6.0\lab10.pdb
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.csproj.AssemblyReference.cache
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.AssemblyInfoInputs.cache
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.AssemblyInfo.cs
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.csproj.CoreCompileInputs.cache
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.dll
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\ref\lab10.dll
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.pdb
+E:\C#\labs\lab10\lab10\obj\Debug\net6.0\lab10.genruntimeconfig.cache
