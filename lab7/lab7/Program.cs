@@ -13,24 +13,30 @@
         N = Convert.ToInt16(sr.ReadLine());
 
         for (int i = 0; i < N; i++) A[i] = Convert.ToInt16(sr.ReadLine());
-        for (int i = 0; i < N; i++) Console.Write($"{Convert.ToString(A[i])} ");
+        for (int i = 0; i < N; i++) Console.Write($"{A[i]} ");
         Console.WriteLine();
 
-        for (int i = 1; i < N; i++)
+        for (int i = 1; i < N+2; i++)
         {
-            if (!(A[i - 1] > A[i] && A[i] < A[i + 1]))
+            if ((A[i - 1] > A[i]) && (A[i] < A[i + 1]))
             {
-                B[k] = A[i];
-                k = k + 1;
+            }
+            else
+            {
+                B[k] = i;
+                k++;
             }
         }
         
         sr.Close();
 
-        for (int i = 1; i < k; i++)
+        for (int i = 0; i <= k; i++)
         {
-            Console.Write($"{B[i]} ");
-            sw.Write($"{B[i]} ");
+            if (B.Contains(i))
+            {
+                Console.Write($"{i+1} ");
+                sw.Write($"{i+1} ");
+            }
         }
         
         sw.Close();
