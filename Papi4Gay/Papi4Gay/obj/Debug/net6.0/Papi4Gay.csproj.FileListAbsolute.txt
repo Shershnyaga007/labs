@@ -1,0 +1,15 @@
+E:\C#\labs\Papi4Gay\Papi4Gay\bin\Debug\net6.0\Papi4Gay.exe
+E:\C#\labs\Papi4Gay\Papi4Gay\bin\Debug\net6.0\Papi4Gay.deps.json
+E:\C#\labs\Papi4Gay\Papi4Gay\bin\Debug\net6.0\Papi4Gay.runtimeconfig.json
+E:\C#\labs\Papi4Gay\Papi4Gay\bin\Debug\net6.0\Papi4Gay.dll
+E:\C#\labs\Papi4Gay\Papi4Gay\bin\Debug\net6.0\Papi4Gay.pdb
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.csproj.AssemblyReference.cache
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.AssemblyInfoInputs.cache
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.AssemblyInfo.cs
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.csproj.CoreCompileInputs.cache
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.dll
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\refint\Papi4Gay.dll
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.pdb
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\Papi4Gay.genruntimeconfig.cache
+E:\C#\labs\Papi4Gay\Papi4Gay\obj\Debug\net6.0\ref\Papi4Gay.dll

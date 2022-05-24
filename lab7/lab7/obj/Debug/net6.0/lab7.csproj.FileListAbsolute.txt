@@ -2,7 +2,6 @@ E:\C#\labs\lab7\lab7\bin\Debug\net6.0\lab7.exe
 E:\C#\labs\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
 E:\C#\labs\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
 E:\C#\labs\lab7\lab7\bin\Debug\net6.0\lab7.dll
-E:\C#\labs\lab7\lab7\bin\Debug\net6.0\ref\lab7.dll
 E:\C#\labs\lab7\lab7\bin\Debug\net6.0\lab7.pdb
 E:\C#\labs\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
 E:\C#\labs\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ E:\C#\labs\lab7\lab7\obj\Debug\net6.0\lab7.dll
 E:\C#\labs\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
 E:\C#\labs\lab7\lab7\obj\Debug\net6.0\lab7.pdb
 E:\C#\labs\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+E:\C#\labs\lab7\lab7\obj\Debug\net6.0\refint\lab7.dll
